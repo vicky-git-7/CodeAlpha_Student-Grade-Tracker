@@ -43,3 +43,6 @@ Programming Language	Java
 GUI Framework	Swing
 Data Structure	ArrayList
 IDE (Recommended)	IntelliJ IDEA / Eclipse / VS Code
+<img width="743" height="555" alt="Screenshot 2025-12-02 221545" src="https://github.com/user-attachments/assets/e1a1c698-e3b9-4710-ba3a-17f959d8d2ac" />
+<img width="747" height="557" alt="Screenshot 2025-12-02 221557" src="https://github.com/user-attachments/assets/5659fc0b-5bcd-4b85-b768-421d1298e05c" />
+
